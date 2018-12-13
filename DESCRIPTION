@@ -1,0 +1,10 @@
+Package: ClassifCheour
+Type: Package
+Title: application of random forest and decision tree models
+Version: 0.1.0
+Author: Ahmed khalil cheour
+Maintainer: The package maintainer <ahmed.cheour95@gmail.com>
+Description: ClassifCheour is a predictiv package working on the famous iris database which takes the "Sepal.Length","Sepal.Width","Petal.Length" and the "Petal.Width" and finally p predict its "Specie" after applying a decision tree and random forest models the level of the train and test can be choosen by the user himself.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
